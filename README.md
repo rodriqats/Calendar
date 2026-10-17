@@ -8,7 +8,7 @@ Proyecto de portfolio de una consultora de **desarrollo web asistido por IA y QA
 |---|---|---|
 | ![Hoy](docs/capturas/hoy.png) | ![Calendario](docs/capturas/calendario.png) | ![Rendimiento](docs/capturas/rendimiento.png) |
 
-**Demo en vivo:** `https://TU-USUARIO.github.io/anotacion-tareas/` *(reemplazar al publicar)*
+**Demo en vivo:** https://rodriqats.github.io/Calendar/
 
 ## Qué hace
 - Agregar tareas con el botón **Agregar nueva tarea** (nombre, fecha, hora opcional, recordatorio).
