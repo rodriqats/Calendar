@@ -1,5 +1,7 @@
 # Anotación de tareas
 
+[![Pruebas E2E](https://github.com/rodriqats/Calendar/actions/workflows/e2e.yml/badge.svg)](https://github.com/rodriqats/Calendar/actions/workflows/e2e.yml)
+
 App móvil (PWA) para anotar las tareas del día, planificar a futuro en un calendario propio, medir el cumplimiento en porcentaje y llevar tareas específicas a Google Calendar.
 
 Proyecto de portfolio de una consultora de **desarrollo web asistido por IA y QA**: la app es simple a propósito; lo que se muestra es cómo se **prueba, documenta y entrega**.
